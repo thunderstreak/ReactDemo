@@ -14,7 +14,7 @@
 
 ## Usage
 
-In the very beginning you need to `clone` this project in your local environment.
+The following commands are available in your project:
 ```bash
 # Start for development
 npm start # or
@@ -45,6 +45,6 @@ npm run copy
 
 ## TODO
 - [x] Responsive layout
-- [x] multiple css pre-processors : Sass
+- [x] multiple css pre-processors : Sass Less
 - [x] router config
 - [x] cli
