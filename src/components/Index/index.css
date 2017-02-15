@@ -1,0 +1,26 @@
+#Hello .msg {
+    color: #61dafb;
+    font-size: 100px;
+}
+#Hello .info {
+    color: #61dafb;
+}
+a {
+	color: #61dafb;
+    font-size: 70px;
+}
+a:hover{
+	text-decoration: none;
+}
+
+.btn{
+	display: block;
+	border:0;
+	height: 70px;
+	line-height: 70px;
+	width: 100%;
+	color: #fff;
+	font-size: 40px;
+	background:#61dafb; 
+	margin-top: 20px;
+}
