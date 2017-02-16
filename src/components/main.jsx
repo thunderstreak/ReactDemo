@@ -1,5 +1,5 @@
 import '../scripts/flexiblecssjs.js';//导入手淘适配解决方案
-import './main.css';
+import './main.less';
 
 import React from 'react';
 import Index from './Index/index';
